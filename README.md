@@ -8,3 +8,7 @@ Polycystic Ovary Syndrome (PCOS) is a medical condition which causes hormonal di
 
 To deal with this problem, we propose a system which can help in early detection and prediction of PCOS treatment from an optimal and minimal set of parameters.
 
+
+
+https://user-images.githubusercontent.com/91784120/218270014-30ac5565-134e-4533-ba8f-fce8bdd7ef3e.mp4
+
